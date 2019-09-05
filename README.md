@@ -1,4 +1,6 @@
-# Default starter for Gridsome
+# Create Websites Fast With Vue Js and Gridsome
+This is a tutorial on how to setup Wordpress with Gridsome with Graphql. You have to install WP GraphQL plugin on the wordpress site for this tutorial to work.
+
 
 This is the project you get when you run `gridsome create new-project`.
 
@@ -12,3 +14,5 @@ This is the project you get when you run `gridsome create new-project`.
 2. `cd my-gridsome-site` to open the folder
 3. `gridsome develop` to start a local dev server at `http://localhost:8080`
 4. Happy coding 🎉🙌
+
+
